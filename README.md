@@ -4,4 +4,3 @@
 - Projeto utilizando RequestsLibrary
 - Projeto Simples
 - Projeto com git hub actions
-
